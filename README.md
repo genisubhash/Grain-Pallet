@@ -1,1 +1,1 @@
-# Grain-Pallet
+# GrainPallette-A-Deep-learning-Odyssey-in-Rice-type-classification
